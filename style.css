@@ -1,0 +1,40 @@
+body {
+    padding: 0;
+    margin: 0;
+    line-height: 33px;
+    max-width: 100%;
+    width: 1920px;
+}
+.page-1 {
+    width: inherit;
+    height: 1058px;
+    background: #E8F2CE;
+    max-width: inherit;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 101px;
+    height: 54px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.logo-text {
+    color: #1B1510;
+    text-align: center;
+    font-family: Inter;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 81.5%; /* 26.895px */
+    letter-spacing: -1.65px;
+}
+
+.heart-pic {
+    width: 61.66px;
+    height: 43.434px;
+    flex-shrink: 0;
+    fill: #1B1510;
+}
